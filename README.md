@@ -9,3 +9,5 @@ stack
 4. tailwindCSS
 
 5. IEX 미국 주식 API
+
+ typescript가 자바스크립트의 가장 최신의 버전을 해석하게끔 lib 라는 config 값을 ESNext 라는 값 활성
