@@ -1,0 +1,20 @@
+{
+  "name": "kdt-2-project-a-lecture_prac",
+  "version": "1.0.0",
+  "description": "memo 1. 프로젝트 진행을 위한 스택 구축",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heeeun1207/KDT-2-Project-A-lecture_prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heeeun1207/KDT-2-Project-A-lecture_prac/issues"
+  },
+  "homepage": "https://github.com/heeeun1207/KDT-2-Project-A-lecture_prac#readme"
+}
